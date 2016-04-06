@@ -1,0 +1,11 @@
+name             'geoserver'
+maintainer       'The Authors'
+maintainer_email 'you@example.com'
+license          'all_rights'
+description      'Installs/Configures geoserver'
+long_description 'Installs/Configures geoserver'
+version          '0.1.0'
+
+depends 'java'
+depends 'apt'
+depends 'tomcat'
